@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anshu Negi!</h1>
 
 <h3 align="center">Full Stack Developer ⚡ | UI/UX Designer 🎨 | Code. Design. Create.</h3>
-<h3>
+<h4>
 👨‍💻 Turning ideas into responsive, user-friendly websites. <br>
 🛠️ Tech stack: HTML • CSS • JS • React • Next • Node • Express • Tailwind • Mongo <br>
-🎨 A mix of logic & design.</h3>
+🎨 A mix of logic & design.</h4>
 
 <h3 align="left">More About Me:</h3>
 
